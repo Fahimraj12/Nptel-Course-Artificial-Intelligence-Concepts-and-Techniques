@@ -3,3 +3,5 @@ In these Repo I have uploaded a week assignments solutions as well as summary of
 
 ### Author:
 > Mo Fahim Raj
+- 📧 [mofahimraj@gmail.com]
+- 🔗 [GitHub Profile](https://github.com/Fahimraj12)
