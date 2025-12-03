@@ -9,3 +9,12 @@ This repository contains my complete preparation resources for the NPTEL course 
 | `Weekwise_Summary.pdf`     | Concise chapter-wise summary of all weeks                                |
 | `Assignment_Solutions.pdf` | Answers/Solutions submitted for weekly assignments                       |
 
+### Objective of the Repository
+This repo is created to:
+- Help students with structured preparation for NPTEL courses
+- Provide quick revision notes before the final exam
+- Share assignment answer reference for learning purposes
+
+> ⚠️ Disclaimer:
+Assignment solutions shared here are for educational reference only.
+Students are encouraged to understand concepts and write their own answers.
