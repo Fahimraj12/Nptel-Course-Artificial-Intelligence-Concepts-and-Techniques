@@ -16,5 +16,5 @@ This repo is created to:
 - Share assignment answer reference for learning purposes
 
 > ⚠️ Disclaimer:
-Assignment solutions shared here are for educational reference only.
-Students are encouraged to understand concepts and write their own answers.
+> Assignment solutions shared here are for educational reference only.
+> Students are encouraged to understand concepts and write their own answers.
