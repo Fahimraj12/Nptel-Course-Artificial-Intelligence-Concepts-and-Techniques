@@ -20,13 +20,8 @@ This repo is created to:
 > Students are encouraged to understand concepts and write their own answers.
 
 ### How I Used These Materials to Prepare
-
-Studied course video lectures week by week
-
+- Studied course video lectures week by week
 Created a summary for each week in my own words
-
 Attempted weekly assignments and recorded the answers
-
 Revised summaries before the final exam
-
 Practiced quiz-style questions for speed and accuracy
