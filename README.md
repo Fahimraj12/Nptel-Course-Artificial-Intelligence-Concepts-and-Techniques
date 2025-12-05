@@ -25,3 +25,13 @@ This repo is created to:
 - Attempted weekly assignments and recorded the answers
 - Revised summaries before the final exam
 - Practiced quiz-style questions for speed and accuracy
+
+Helpful Tips for NPTEL Exam
+
+Weekly learning and consistency matter more than last-minute study
+
+Focus on module summaries + solved assignments
+
+Rewatch lectures for confusing portions
+
+Use the NPTEL transcripts + FAQ section for concepts
