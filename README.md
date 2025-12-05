@@ -31,3 +31,13 @@ This repo is created to:
 - Focus on module summaries + solved assignments
 - Rewatch lectures for confusing portions
 - Use the NPTEL transcripts + FAQ section for concepts
+
+Feedback / Support
+
+If these resources helped you in your NPTEL preparation:
+
+🌟 Leave a star on this repository
+
+🤝 Fork and contribute summaries for other NPTEL courses
+
+📩 Feel free to open an issue for suggestions
