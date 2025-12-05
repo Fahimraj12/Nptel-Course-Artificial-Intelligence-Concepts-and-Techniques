@@ -27,11 +27,7 @@ This repo is created to:
 - Practiced quiz-style questions for speed and accuracy
 
 ### Helpful Tips for NPTEL Exam
-
-Weekly learning and consistency matter more than last-minute study
-
-Focus on module summaries + solved assignments
-
-Rewatch lectures for confusing portions
-
-Use the NPTEL transcripts + FAQ section for concepts
+- Weekly learning and consistency matter more than last-minute study
+- Focus on module summaries + solved assignments
+- Rewatch lectures for confusing portions
+- Use the NPTEL transcripts + FAQ section for concepts
