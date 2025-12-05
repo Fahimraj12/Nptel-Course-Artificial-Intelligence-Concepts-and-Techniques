@@ -26,7 +26,7 @@ This repo is created to:
 - Revised summaries before the final exam
 - Practiced quiz-style questions for speed and accuracy
 
-Helpful Tips for NPTEL Exam
+### Helpful Tips for NPTEL Exam
 
 Weekly learning and consistency matter more than last-minute study
 
