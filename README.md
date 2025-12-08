@@ -37,3 +37,8 @@ If these resources helped you in your NPTEL preparation:
 - 🌟 Leave a star on this repository
 - 🤝 Fork and contribute summaries for other NPTEL courses
 - 📩 Feel free to open an issue for suggestions
+
+### Connect With Me
+If you want to collaborate on learning, projects, or research:
+GitHub: (your profile link)
+LinkedIn: (your LinkedIn link)
