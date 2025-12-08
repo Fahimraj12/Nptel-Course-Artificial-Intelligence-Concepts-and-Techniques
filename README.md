@@ -42,3 +42,6 @@ If these resources helped you in your NPTEL preparation:
 If you want to collaborate on learning, projects, or research:
 GitHub: (your profile link)
 LinkedIn: (your LinkedIn link)
+
+### 🙌 Thank you for visiting!
+Wishing you all the best for your NPTEL journey and exams 🚀
