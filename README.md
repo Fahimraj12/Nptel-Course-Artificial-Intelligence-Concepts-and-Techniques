@@ -40,8 +40,8 @@ If these resources helped you in your NPTEL preparation:
 
 ### Connect With Me
 If you want to collaborate on learning, projects, or research:
-GitHub: (your profile link)
-LinkedIn: (your LinkedIn link)
+GitHub: ([Github Linlls)](https://github.com/Fahimraj12)
+LinkedIn: [(LinkedIn link)](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
 
 ### 🙌 Thank you for visiting!
 Wishing you all the best for your NPTEL journey and exams 🚀
