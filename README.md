@@ -7,7 +7,7 @@ This repository contains my complete preparation resources for the NPTEL course 
 | File/Folder                | Description                                                              |
 | -------------------------- | ------------------------------------------------------------------------ |
 | `Weekwise Summary.pdf`     | Concise chapter-wise summary of all weeks                                |
-| `Artificial Intelligence.pdf` | Answers/Solutions submitted for weekly assignments                       |
+| `Artificial Intelligence.pdf` | Answers/Solutions submitted for weekly assignments                    |
 
 ### Objective of the Repository
 This repo is created to:
@@ -15,7 +15,7 @@ This repo is created to:
 - Provide quick revision notes before the final exam
 - Share assignment answer reference for learning purposes
 
-> ⚠️ Disclaimer:
+> ⚠️ Disclaimer:\n
 > Assignment solutions shared here are for educational reference only.
 > Students are encouraged to understand concepts and write their own answers.
 
