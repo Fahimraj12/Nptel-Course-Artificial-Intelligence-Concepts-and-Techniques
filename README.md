@@ -15,9 +15,9 @@ This repo is created to:
 - Provide quick revision notes before the final exam
 - Share assignment answer reference for learning purposes
 
-> ⚠️ Disclaimer:\n
-> Assignment solutions shared here are for educational reference only.
-> Students are encouraged to understand concepts and write their own answers.
+> ⚠️ Disclaimer:
+Assignment solutions shared here are for educational reference only.
+Students are encouraged to understand concepts and write their own answers.
 
 ### How I Used These Materials to Prepare
 - Studied course video lectures week by week
